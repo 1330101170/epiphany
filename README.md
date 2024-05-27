@@ -1,8 +1,8 @@
-## POETIZE
-POETIZE：作诗，有诗意地描写。
+## EPIPHANY
+EPIPHANY：顿悟，灵光一闪。
 
 ## 网站示例
-[poetize.cn](https://poetize.cn)
+[web.awww.asia](https://web.awww.asia/)
 
 这是我的个人网站，我的生活倒影，有诗意地记录自己的生活。
 
@@ -12,15 +12,6 @@ POETIZE：作诗，有诗意地描写。
 前端技术：Vue2（博客系统），Vue3（IM 聊天室系统），Element UI（Vue2），Element-Plus UI（Vue3），Naive UI（Vue3）
 
 后端技术：Java，SpringBoot，MySQL，Mybatis-Plus，t-io，qiniu-java-sdk，spring-boot-starter-mail
-
-## 项目介绍
-从2021年6月16日开始搭建项目，到2022年8月21日第一个开源版发布，再到2024年4月10日最后一个开源版结束。期间曾因为换工作而暂停几个月，也因老头环而鸽了几个月，至此开源版正式完结。
-
-项目开源版经历了大大小小的更新，每次更新都是在美观度上的精雕细琢，也修复了很多问题，添加了很多功能。项目也推出了PRO版，提供持续优化与更新，部署资料与技术支持。
-
-开源版只需要在拉取项目，按照上述说明直接启动，但需要一定的编程能力。PRO版就需要您赞助本项目了。
-
-欢迎使用开源版的朋友，也感谢对PRO版的支持。
 
 ## 网站简介
 这是一个 SpringBoot + Vue2 + Vue3 的产物，支持移动端自适应，配有完备的前台和后台管理功能。
@@ -37,7 +28,7 @@ POETIZE：作诗，有诗意地描写。
 
 Vue3（IM 聊天室系统）是非必须的。如果部署，则需要依赖博客，然后从博客的“联系我”进入，因为登录模块在博客。
 
-## 网站示例（详细示例请见官方网站：[https://poetize.cn](https://poetize.cn)）
+## 网站示例（详细示例请见官方网站：[web.awww.asia](https://web.awww.asia/)）
 
 ### 博客
 
