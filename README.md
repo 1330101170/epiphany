@@ -75,28 +75,3 @@ Vue3（IM 聊天室系统）是非必须的。如果部署，则需要依赖博�
 
 ![后台管理新增文章](poetize_picture/后台管理新增文章.png)
 
-## 使用功能
-网站介绍与更新记录：[https://poetize.cn/article/20](https://poetize.cn/article/20)。
-
-### 功能介绍
-本网站以诗词为基底，通过随机诗句API，每次进入都会有一句诗映入眼帘。
-
-详情请见：[POETIZE - 功能介绍](https://poetize.cn/article/89)。
-
-### 文章系统
-文章在后台使用MarkDown编写，通过解析生成不同的标签，达到自定义美化效果。
-
-详情请见：[POETIZE - 文章系统](https://poetize.cn/article/88)。
-
-### 用户系统
-详情请见：[POETIZE - 用户系统](https://poetize.cn/article/87)。
-
-### 随笔
-详情请见：[POETIZE - 随笔（朋友圈、点点滴滴、微言）](https://poetize.cn/article/86)。
-
-### 资源聚合
-详情请见：[POETIZE - 资源聚合](https://poetize.cn/article/85)。
-
-### 文件服务
-详情请见：[POETIZE - 文件服务](https://poetize.cn/article/84)。
-
