@@ -6,7 +6,7 @@ EPIPHANY：顿悟，灵光一闪。
 
 这是我的个人网站，我的生活倒影，有诗意地记录自己的生活。
 
-![首页](poetize_picture/首页.png)
+![首页](https://file.awww.asia/static/assets/1NBBG9%40CY%5DP%258Z2HE%24C1%4049.png)
 
 ## 技术栈
 前端技术：Vue2（博客系统），Vue3（IM 聊天室系统），Element UI（Vue2），Element-Plus UI（Vue3），Naive UI（Vue3）
