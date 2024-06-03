@@ -33,45 +33,30 @@ Vue3（IM 聊天室系统）是非必须的。如果部署，则需要依赖博�
 ### 博客
 
 #### 文章速览、文章分类
-![首页文章速览](poetize_picture/首页文章速览.png)
+![首页文章速览](https://file.awww.asia/static/assets/1NBBG9%40CY%5DP%258Z2HE%24C1%4049.png)
 
-![分类页面](poetize_picture/分类页面.png)
+![分类页面](https://file.awww.asia/static/assets/M%24T%29D6%5BL%28XPQC3%7DH6T4B0Z7.png)
 
 #### 文章详情页：文章、视频功能与留言
-![文章详情页](poetize_picture/文章详情页.png)
+![文章详情页](https://file.awww.asia/static/assets/Z4%254DSCS7WE%25J9T5K_~E%29YO.png)
 
-![文章视频功能](poetize_picture/文章视频功能.png)
+![文章视频功能](https://file.awww.asia/static/assets/OF%297Q%5BY%28%24KKAQCY%25DQMO%40C5.png)
 
-![文章留言区域](poetize_picture/文章留言区域.png)
+![文章留言区域](https://file.awww.asia/static/assets/5%24A4KSMAF%28G11%7B~EWU%288CI3.png)
 
 #### 恋爱笔记与旅拍
-![恋爱笔记页面](poetize_picture/恋爱笔记页面.png)
-
-![旅拍页面](poetize_picture/旅拍页面.png)
-
-#### 百宝箱、弹幕墙与友人帐
-![百宝箱](poetize_picture/百宝箱.png)
-
-![弹幕墙](poetize_picture/弹幕墙.png)
-
-![友人帐](poetize_picture/友人帐.png)
-
-#### 聊天室与朋友圈
-![聊天室](poetize_picture/聊天室.png)
-
-![朋友圈](poetize_picture/朋友圈.png)
-
+![恋爱笔记页面](https://file.awww.asia/static/assets/%5BL%60SI4C13TV_1%7BKOHN%244%40YG.png)
 ### 后台管理系统
 
 #### 访问统计、基础设置与文件管理
-![后台管理访问统计](poetize_picture/后台管理访问统计.png)
+![后台管理访问统计](https://file.awww.asia/static/assets/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E8%AE%BF%E9%97%AE%E7%BB%9F%E8%AE%A1.png)
 
-![后台管理网站基础设置](poetize_picture/后台管理网站基础设置.png)
+![后台管理网站基础设置](https://file.awww.asia/static/assets/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E7%BD%91%E7%AB%99%E5%9F%BA%E7%A1%80%E8%AE%BE%E7%BD%AE.png)
 
-![后台管理文件资源管理](poetize_picture/后台管理文件资源管理.png)
+![后台管理文件资源管理](https://file.awww.asia/static/assets/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E6%96%87%E4%BB%B6%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86.png)
 
 #### 文章管理与新增文章
-![后台管理文章管理](poetize_picture/后台管理文章管理.png)
+![后台管理文章管理](https://file.awww.asia/static/assets/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E6%96%87%E7%AB%A0%E7%AE%A1%E7%90%86.png)
 
-![后台管理新增文章](poetize_picture/后台管理新增文章.png)
+![后台管理新增文章](https://file.awww.asia/static/assets/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%E6%96%B0%E5%A2%9E%E6%96%87%E7%AB%A0.png)
 
